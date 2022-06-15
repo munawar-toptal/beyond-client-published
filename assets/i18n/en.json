@@ -1,0 +1,34 @@
+{
+    "BEYOND": "Beyond",
+    "MENU": {
+        "HOME": "Home",
+        "FEATURES": "Features",
+        "PRICING": "Pricing",
+        "A_WORD_FROM_THE_WISE": "A word from the wise",
+        "TESTIMONIALS": "Testimonials"
+    },
+    "LOG_IN": "Log in",
+    "PAGES": "Pages",
+    "CONTACT": "Contact",
+    "SUBMIT": "Submit",
+    "EMAIL_ADDRESS": "Email Address",
+    "HOME": {
+        "BE_THERE_FOR_THEM": "<strong>Be there for them</strong> even if you can’t be with them",
+        "USE_YOUR_PHONE_TO_CREATE_VIDEO_OR_VOICE": "Use your phone to create video or voice messages that be delivered to your family and friends after your passing.",
+        "GET_STARTED": "Get Started",
+        "MISSION": "Mission",
+        "AT_BEYOND_WE_UNDERSTAND": "At Beyond, we understand <strong>legacy knows no timeline</strong>–so we’re here to help you stay connected to loved ones in perpetuity!",
+        "BE_PREPARED_FOR_THEM":"Be Prepared for Them",
+        "RECORD_AND_WRITE_MESSAGE": "Record & Write messages that are delivered to loved ones after you're gone",
+        "CHECK_PRICING": "Check pricing",
+        "STORE_IMPORTANT_PASSWORD": "Store important passwords in the Beyond Cloud making life easier for your loved ones when the time comes.",
+        "CREATE_VITAL_DOCUMENTS_LAST_WILL": "Create vital documents such as your last will & testament.",
+        "WITH_BEYOND_YOU_CAN_PROVIDE_LIFE_LONG_ADVICE": "With Beyond, you can provide <strong>life-changing advice</strong> to the young. Your wisdom is a valuable asset that so many could learn from",
+        "ASSIGN_BENEFICIARY_TO_MAINTAIN_PEACE": "Assign a beneficiary to maintain peace among your family",
+        "ENJOY_REAL_CUSTOMER_SUPPORT": "Enjoy real customer support from our Beyond team. We're one call away"
+    },
+    "FOOTER": {
+        "COPYRIGHT": "Copyright © 2022 Beyond. All rights reserved.",
+        "SUBSCRIBE_NEWS_LETTER": "Subscribe to our Newsletter"
+    }
+}
