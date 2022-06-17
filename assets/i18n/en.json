@@ -17,7 +17,7 @@
         "USE_YOUR_PHONE_TO_CREATE_VIDEO_OR_VOICE": "Use your phone to create video or voice messages that be delivered to your family and friends after your passing.",
         "GET_STARTED": "Get Started",
         "MISSION": "Mission",
-        "AT_BEYOND_WE_UNDERSTAND": "At Beyond, we understand <strong>legacy knows no timeline</strong>–so we’re here to help you stay connected to loved ones in perpetuity!",
+        "AT_BEYOND_WE_UNDERSTAND": "At Beyond, we understand that <strong>legacy knows no timeline</strong>–so we’re here to help you stay connected to loved ones in perpetuity!",
         "BE_PREPARED_FOR_THEM":"Be Prepared for Them",
         "RECORD_AND_WRITE_MESSAGE": "Record & Write messages that are delivered to loved ones after you're gone",
         "CHECK_PRICING": "Check pricing",
@@ -28,7 +28,7 @@
         "ENJOY_REAL_CUSTOMER_SUPPORT": "Enjoy real customer support from our Beyond team. We're one call away"
     },
     "FOOTER": {
-        "COPYRIGHT": "Copyright © 2022 Beyond. All rights reserved.",
+        "COPYRIGHT": "Copyright © 2022 Beyond. All&nbsp;rights&nbsp;reserved.",
         "SUBSCRIBE_NEWS_LETTER": "Subscribe to our Newsletter"
     }
 }
